@@ -1,0 +1,6 @@
+@EKart_EcommerceApp_HostAddress = http://localhost:5148
+
+GET {{EKart_EcommerceApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
